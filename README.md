@@ -13,11 +13,11 @@ Unhide stars when feature to have organisation stars gets added. Currently much 
 #### Top Repositories
 
 <a href="https://github.com/SMTG-UCL/ShakeNBreak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SMTG-UCL&repo=ShakeNBreak&theme=tokyonight" width="280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SMTG-UCL&repo=ShakeNBreak&theme=tokyonight" width="275" />
 </a>
 <a href="https://github.com/SMTG-UCL/doped">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SMTG-UCL&repo=doped&theme=tokyonight" width="280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SMTG-UCL&repo=doped&theme=tokyonight" width="275" />
 </a>
 <a href="https://github.com/kavanase/vaspup2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kavanase&repo=vaspup2.0&theme=tokyonight" width="280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kavanase&repo=vaspup2.0&theme=tokyonight" width="275" />
 </a>
